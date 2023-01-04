@@ -3,7 +3,7 @@
 
 <h1 align="center">Hi 👋, I'm Afrin Akhtar</h1>
 <h3 align="center">A passionate full-stack developer from India.</h3>
-<img align="right" alt ="coding" width="400" src="https://37.media.tumblr.com/7559d3449650887ff596c97f51f4a9c2/tumblr_n79q70BSFg1s7yoyqo1_500.gif">  
+<img align="right" alt ="coding" width="400" src="https://media.tenor.com/SNL9_xhZl9oAAAAi/waving-hand-joypixels.gif">  
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=afrin786akhtar&label=Profile%20views&color=0e75b6&style=flat" alt="afrin786akhtar" /> </p>
 
