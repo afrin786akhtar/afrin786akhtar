@@ -1,4 +1,4 @@
-[![MasterHead](https://cdn.neowin.com/news/images/uploaded/2021/04/1619644762_github-desktop_story.jpg)]
+<!-- [![MasterHead](https://cdn.neowin.com/news/images/uploaded/2021/04/1619644762_github-desktop_story.jpg)] -->
 
 
 <h1 align="center">Hi 👋, I'm Afrin Akhtar</h1>
