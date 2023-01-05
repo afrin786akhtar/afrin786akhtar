@@ -4,7 +4,9 @@
 <h1 align="center">Hi 👋, I'm Afrin Akhtar</h1>
 <h3 align="center">A passionate full-stack developer from India.</h3>
 <img align="right" alt ="coding" width="400" src="https://media.tenor.com/2nKSTDDekOgAAAAC/coding-kira.gif">  
-# 💫 About Me:
+
+## 💫 About Me:
+
 🔭 I’m currently working on Backend part for creating API's using Nodejs , Express , JavaScript and manipulate the data using MongoDb .<br>🌱 I’m currently learning React Js.<br>💬 Ask me about ... Anything.<br>✨ Eat ↔️ Code ↔️ Sleep↔️Repeat
 
 
