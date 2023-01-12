@@ -1,4 +1,4 @@
-<!-- ![MasterHead]((https://camo.githubusercontent.com/5dc6ee33381917e41fc9c4951799268998f11a9b864399bf79a0842e4f9b194d/68747470733a2f2f692e696d6775722e636f6d2f315a76566b44632e676966)) -->
+![MasterHead](https://miro.medium.com/max/1400/1*GNFNf_V7rj_C2YUCeZNzsw.jpeg)
 
 
 <h1 align="center">Hi 👋, I'm Afrin Akhtar</h1>
