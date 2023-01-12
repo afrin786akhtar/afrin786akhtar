@@ -1,9 +1,9 @@
-![MasterHead]((https://camo.githubusercontent.com/5dc6ee33381917e41fc9c4951799268998f11a9b864399bf79a0842e4f9b194d/68747470733a2f2f692e696d6775722e636f6d2f315a76566b44632e676966))
+<!-- ![MasterHead]((https://camo.githubusercontent.com/5dc6ee33381917e41fc9c4951799268998f11a9b864399bf79a0842e4f9b194d/68747470733a2f2f692e696d6775722e636f6d2f315a76566b44632e676966)) -->
 
 
 <h1 align="center">Hi 👋, I'm Afrin Akhtar</h1>
 <h3 align="center">A passionate full-stack developer from India.</h3>
-<img align="right" alt ="coding" width="400" src="https://media.tenor.com/2nKSTDDekOgAAAAC/coding-kira.gif">  
+<img align="right" alt ="coding" width="400" src="[https://media.tenor.com/2nKSTDDekOgAAAAC/coding-kira.gif](https://camo.githubusercontent.com/ce44b3f848998271c133c7dcba1540cac117520be69e952e5af2831b403f063b/68747470733a2f2f632e74656e6f722e636f6d2f53353962506b543070716341414141432f70726f6772616d6d696e672e676966)">  
 
 ## 💫 About Me:
 
